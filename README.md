@@ -1,12 +1,11 @@
-# springboot-integration
+## 环境要求：
+* JDK版本：1.8
+* 数据库： MySQL
 
-## 简介：本项目属于springboot架构的web项目
-
-## springboot版本：`1.5.8.RELEASE`
 
 ## 主要功能：
 
-* 持久化框架：使用了简介简便的Spring-data-jpa;
+* 持久化框架：使用了简洁简便的Spring-data-jpa;
 * 定时任务：使用了@Scheduled创建定时任务;
 * 日志：使用了Log4j进行日志的输出;
 * spring AOP: 使用了AOP进行了web请求日志的统一处理
